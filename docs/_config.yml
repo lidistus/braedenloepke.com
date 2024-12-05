@@ -22,8 +22,8 @@ title: braeden loepke
 email: bloepke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Front End Developer | UI/UX Engineer | Aspiring C Developer
-baseurl: "braedenloepke.github.io" # the subpath of your site, e.g. /blog
-url: "https://braedenloepke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "braedenloepke.com" # the subpath of your site, e.g. /blog
+url: "https://braedenloepke.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  lidistus
 
@@ -31,7 +31,7 @@ github_username:  lidistus
 theme: minima
 plugins:
   - jekyll-feed
-domain: braedenloepke.github.io
+domain: braedenloepke.com
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
